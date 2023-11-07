@@ -1,0 +1,3 @@
+Welcome to Valorant Battle!
+
+Valorant Battle is a turn based game. Click on the enemy you wish to attack to attack. You win if every enemy dies. The end.
